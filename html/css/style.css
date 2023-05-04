@@ -1,6 +1,14 @@
 body{
     text-align: center;
     font-family: "Arial";
-    color: #807a7a;
+    color: #3f0000;
     background-color: aquamarine;
+}
+
+#conteiner {
+    width: 70%;
+    padding: 1cm;
+    text-align: left;
+    border: 1px solid #000000;
+    margin: 0 auto;
 }
