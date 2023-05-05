@@ -12,3 +12,9 @@ body{
     border: 1px solid #000000;
     margin: 0 auto;
 }
+
+#cabecera{
+    background-color: #0000ff;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    box-shadow: #000000 solid 1px 1px 1px 1px;
+}
